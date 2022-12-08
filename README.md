@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -16,5 +15,4 @@
 	<ul>
 	<li><strong>GitHub Portfolio</strong> <a href="https://github.com/squineston" target ="_blank"> here</a></li>
 	<li><strong>LinkedIn Profile</strong> <a href="https://www.linkedin.com/in/joaopaulorodriguesrola/" target ="_blank">here</a></li>
-        </article>
 </body>
