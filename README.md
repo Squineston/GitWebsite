@@ -12,7 +12,6 @@
 	<p>Currently open to positions as a data analyst in a data driven company.</p>
 	<p>Also intending to complete a Master Degree in Business Analytics and Information Systems.</p>
 	<h2>Contact information and others </h2>
-	<ul>
 	<li><strong>GitHub Portfolio</strong> <a href="https://github.com/squineston" target ="_blank"> here</a></li>
 	<li><strong>LinkedIn Profile</strong> <a href="https://www.linkedin.com/in/joaopaulorodriguesrola/" target ="_blank">here</a></li>
 </body>
